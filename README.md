@@ -1,4 +1,4 @@
-# 💙 Hello, World! I'm Elaiza ♡  
+# 💙 Hello, World! <I'm Elaiza> ♡  
 
 🎓 BS Computer Science Student @ Batangas State University – The National Engineering University  
 📚 Bookworm | 🍪 Cook & Baker | 💻 Tech Explorer  
@@ -8,10 +8,12 @@
 
 ---
 
-## 📚 Student Life Stats
-![Elaiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+---
 
-## ☕ Languages I’m Learning (between coffee breaks & deadlines)
+## 📖 Student Life Status
+![Elaiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&rank_icon=student)  
+
+## 💻 Languages I’m Learning ♡ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
 
 ---
