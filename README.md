@@ -1,4 +1,4 @@
-# 💙 Hello, World! <I'm Elaiza> ♡  
+# ♡ < Hello, World! >
 
 🎓 BS Computer Science Student @ Batangas State University – The National Engineering University  
 📚 Bookworm | 🍪 Cook & Baker | 💻 Tech Explorer  
@@ -8,13 +8,10 @@
 
 ---
 
----
-
 ## 📖 Student Life Status
- 
+      -- 2nd Year --
 
 ## 💻 Languages I’m Learning ♡ 
-
 
 ---
 
