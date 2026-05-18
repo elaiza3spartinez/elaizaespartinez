@@ -29,12 +29,15 @@
 
 ## 🛠️ Tools & Technologies
 
+* **Command Prompt**
 * **VS Code**
 * **VS Community**
 * **Git & GitHub**
 * **Xampp / MySQL / phpMyAdmin**
 * **NetBeans (Java GUI)**
-* **Canva (for presentations 😌)**
+* **Cisco Pocket Tracer**
+* **Canva (for presentations)**
+* **Capcut (for creative presentations)**
 
 ---
 
@@ -52,7 +55,7 @@
 ✨ Things I enjoy exploring on:
 
 * **CRUD Systems** (Student/Teacher Management Systems)
-* **GUI Applications** (Java Swing)
+* **GUI Applications** (Java Swing, Windows Form)
 * **Database-connected projects**
 * Beginner-friendly web projects 🌐
 
